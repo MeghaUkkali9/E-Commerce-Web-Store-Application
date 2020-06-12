@@ -30,4 +30,5 @@ Designed ecommerce application using:
 ##### Admin Dashboard Page
 <img width="960" alt="ecommerce-Admin page" src="https://user-images.githubusercontent.com/47338565/84547392-7340f280-acd1-11ea-9b4d-968995b8552e.PNG">
 
-
+##### Add item for Admin
+![addproduct](https://user-images.githubusercontent.com/47338565/84547457-966ba200-acd1-11ea-9a37-b6de36d3d11f.JPG)
