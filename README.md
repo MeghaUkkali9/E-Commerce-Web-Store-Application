@@ -21,3 +21,10 @@ Designed ecommerce application using:
 ##### Register Page
 <img width="960" alt="ecommerce- register page" src="https://user-images.githubusercontent.com/47338565/84547216-17766980-acd1-11ea-8428-09d4f49b35f8.PNG">
 
+##### Login Page
+<img width="960" alt="ecommerce-login page" src="https://user-images.githubusercontent.com/47338565/84547225-1c3b1d80-acd1-11ea-9da6-98149df2875b.PNG">
+
+##### Reset Password Page
+<img width="960" alt="forgot password" src="https://user-images.githubusercontent.com/47338565/84547346-54daf700-acd1-11ea-9cf9-0c816eaf75cb.PNG">
+
+
