@@ -27,4 +27,7 @@ Designed ecommerce application using:
 ##### Reset Password Page
 <img width="960" alt="forgot password" src="https://user-images.githubusercontent.com/47338565/84547346-54daf700-acd1-11ea-9cf9-0c816eaf75cb.PNG">
 
+##### Admin Dashboard Page
+<img width="960" alt="ecommerce-Admin page" src="https://user-images.githubusercontent.com/47338565/84547392-7340f280-acd1-11ea-9b4d-968995b8552e.PNG">
+
 
