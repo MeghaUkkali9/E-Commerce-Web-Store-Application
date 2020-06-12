@@ -35,3 +35,6 @@ Designed ecommerce application using:
 
 ##### Update item for Admin
 ![Update products](https://user-images.githubusercontent.com/47338565/84547674-0a0daf00-acd2-11ea-8b7a-3dfd75620f7c.jpg)
+
+##### View Products
+![products](https://user-images.githubusercontent.com/47338565/84548711-51953a80-acd4-11ea-9572-fa3cdb36e85d.jpg)
