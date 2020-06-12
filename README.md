@@ -1,14 +1,14 @@
 # E-COMMERCE WEB STORE APPLICATION
 
 Designed ecommerce application using:
-**1. PHP5
-2. MySQL**
-**3. HTML5
-4. Bootstrap**
-**5. Xampp
-6. Datagrip**
-**7. MySQL Workbench
-8. Atom**
+- **1. PHP5**
+- **2. MySQL**
+- **3. HTML5**
+- **4. Bootstrap**
+- **5. Xampp**
+- **6. Datagrip**
+- **7. MySQL Workbench**
+- **8. Atom**
 
 ## Brief About this Project
 - Designed and developed an easy to navigate, responsive, user friendly web-based ecommerce application which allows users to login/register with application, view product details and speedy checkout. 
