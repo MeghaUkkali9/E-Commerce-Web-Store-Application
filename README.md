@@ -15,3 +15,5 @@ Designed ecommerce application using:
 -	Designed and developed responsive dashboard for admin, provided functionalities like adding/updating/deleting product, which makes the application more manageable, scalable and robust.
 -	User data and product related data are persisted using SQL Queries, Stored Procedures and wrote triggers to notify admin about change in username, password, order details and many more.
 -	Developed web application using PHP5, MySQL, HTML5, Bootstrap, also documented the project, worked on deployment, testing, and maintaining the application.
+
+## UI Design
