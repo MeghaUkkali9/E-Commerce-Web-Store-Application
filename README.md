@@ -32,3 +32,6 @@ Designed ecommerce application using:
 
 ##### Add item for Admin
 ![addproduct](https://user-images.githubusercontent.com/47338565/84547457-966ba200-acd1-11ea-9a37-b6de36d3d11f.JPG)
+
+##### Update item for Admin
+![Update products](https://user-images.githubusercontent.com/47338565/84547508-b4d19d80-acd1-11ea-8eac-9a85da5bcffd.jpg)
